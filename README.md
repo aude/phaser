@@ -1,2 +1,4 @@
-# phaser
-Phaser toy box
+phaser
+======
+
+A place to toy around with Phaser.
